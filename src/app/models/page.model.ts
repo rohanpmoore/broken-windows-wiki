@@ -1,7 +1,9 @@
 import { Stats } from './pagestats.model';
-import { Content } from './pagecontent.model';
 
 export class Page {
+  private stats: Stats;
+  private background: string;
+
   constructor(attributes) {
 
   }
