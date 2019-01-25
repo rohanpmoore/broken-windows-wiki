@@ -55,7 +55,9 @@ export class Stats {
   }
 
   private parseDate(date) {
-    parsedString: string = "";
-    parsedString += date.getDate() + ""
+    //Placeholder code, will come back to this
+    return date;
+    // parsedString: string = "";
+    // parsedString += date.getDate() + ""
   }
 }
