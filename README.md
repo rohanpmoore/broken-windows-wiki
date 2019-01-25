@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+## Features
+
+Note: not all features may be completed at this time.
+
+[x] Basic landing page with core information
+[ ] Content pages listing for characters, plot arcs, and players
+[ ] Full CRUD functionality for pages
+[ ] Full navbar permitting easy site navigation
+[ ] Search function to quickly find specific pages
+[ ] Pages have identifiers that allow you to go to lists of all similar pages
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
